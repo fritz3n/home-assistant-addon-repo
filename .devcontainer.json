@@ -25,7 +25,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "fritz3n/tailscale-no-host": {
+        "fritz3n/addon-tailscale-no-host": {
           "permissions": "write-all"
         }
       }
