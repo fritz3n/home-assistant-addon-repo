@@ -26,9 +26,7 @@
     "codespaces": {
       "repositories": {
         "fritz3n/tailscale-no-host": {
-          "permissions": {
-            "permissions": "write-all"
-          }
+          "permissions": "write-all"
         }
       }
     }
