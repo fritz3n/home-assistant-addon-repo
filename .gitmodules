@@ -1,0 +1,3 @@
+[submodule "tailscale-no-host"]
+	path = tailscale-no-host
+	url = https://github.com/fritz3n/addon-tailscale-no-host.git
